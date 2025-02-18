@@ -4,13 +4,13 @@
 
 ## Hi there, I'm LazaDX 👋  
 
-### 🚀 About Me  
+### 🚀 About Me 
 - 🔭 I’m currently working on backend development projects using **Laravel, Spring Boot, and Node.js**  
-- 🌱 I’m currently learning **DevOps, Docker, and Cloud Computing**  
+- 🌱 I’m currently learning **DevOps, Docker**  
 - 👯 I’m looking to collaborate on **open-source projects and backend development**  
 - 🤔 I’m looking for help with **advanced DevOps practices and security best practices**  
-- 💬 Ask me about **backend development, databases, and API design**  
-- 📫 How to reach me: **[Your Email] | [Your LinkedIn]**  
+- 💬 Ask me about **backend development, databases**  
+- 📫 How to reach me: **lazanirina2800@gmail.com | www.linkedin.com/in/nomenjanahary-aintsoa-lazanirina-baaa08285**  
 - ⚡ Fun fact: I love **gaming, tech, and exploring new programming frameworks**  
 
 ### 🛠️ Tech Stack  
